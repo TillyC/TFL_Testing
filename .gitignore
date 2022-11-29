@@ -107,3 +107,8 @@ GitHub.sublime-settings
 
 #gitignore spotify keys
 spotifyKeys.json
+#ignore the tfl key
+tfl.txt
+
+#ignore .cache
+.cache-1180252496
